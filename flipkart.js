@@ -39,7 +39,6 @@ cnum = cnum - 1;
 var user = users[cnum];
 var totbids = require('./' + coins + 'c.json');
 
-
 var inputfield = '#container > div > div:nth-child(2) > div > div > div > div._3ooaa4 > div._1r-M-1 > div:nth-child('+(productnum+1)+') > div > div > div._34dlP7 > div > input';
 var bidbutton = '#container > div > div:nth-child(2) > div > div > div > div._3ooaa4 > div._1r-M-1 > div:nth-child('+(productnum+1)+') > div > div > div._34dlP7 > div > button';
 

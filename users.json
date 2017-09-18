@@ -154,6 +154,36 @@
         "pass":"mimi@143",
         "lastbid":3,
         "holder":"naveen"
+    },  
+    {
+        "user":"9848690937",
+        "pass":"Harsha@Dexter",
+        "lastbid":0,
+        "holder":"Koumudi"
+    },
+    {
+        "user":"8247891827",
+        "pass":"SruthiChilla",
+        "lastbid":0,
+        "holder":"Sruthi"
+    },
+    {
+        "user":"jayanth.nani66@gmail.com",
+        "pass":"abhidaya",
+        "lastbid":0,
+        "holder":"Jayanth"
+    },
+    {
+        "user":"happysreeharsha@gmail.com",
+        "pass":"12345",
+        "lastbid":0,
+        "holder":"Harsha"
+    }, 
+    {
+        "user":"7382758593",
+        "pass":"saitej",
+        "lastbid":0,
+        "holder":"Saitej"
     }
 
 ]
